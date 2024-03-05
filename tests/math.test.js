@@ -1,4 +1,3 @@
-const { default: test } = require('node:test');
 const math = require('../math');
 
 test('soma 28 + 36 igual a 64', ()=>{
